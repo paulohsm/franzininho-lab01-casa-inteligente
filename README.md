@@ -64,7 +64,20 @@ Para trocar de rede: segurar o botao BOOT por 3 segundos.
 
 ## Exemplos de funcionamento
 
-(colocar aqui as fotos e prints)
+Saída do comando `idf.py -p /dev/ttyACM0 monitor`:
+![Terminal do Serial Monitor](docs/serial-monitor.png)
+
+Dispositivos identificados pelo ESP RainMaker:
+![Dispositivos ESP RainMaker](docs/rainmaker-devices.jpeg)
+
+Monitoramento da temperatura no app Alexa:
+![Temperatura Alexa](docs/alexa-temperatura.jpeg)
+
+Controle do LED pelo app Alexa:
+![Controle LED Alexa](docs/alexa-led.jpeg)
+
+LED acionado pelo app Alexa:
+![LED LAB01](docs/lab01-led.jpg)
 
 ## Arquivos
 
